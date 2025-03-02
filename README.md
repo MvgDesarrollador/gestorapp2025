@@ -1,13 +1,25 @@
-#GESTOR APP 2025
-## Plataforma para la gestion  de sitios Comunes
-JUAN DIEGO SANCHEZ - WD
-Melissa Beltran
+# Hotel Manager Documentation
+ Platform for the common places management.
 
-ENTREGABLES
-1. Modifiquen el readme.md para incluir recomendaciones
-de instalacion uso y proposito de la app
-2. agregar el componente footer a los commons
-3. refactorizar el diseño del HOME (menu, banner, acerca)
-4. crear pagina nueva llamada booking (incluir en rutas)
-5. subir el desarrollo a github con una ramma independiente haciendo
-pull request
+## Description
+Hotel Manager is an application designed for the correct flow and management of reservations to facilate the life for the hotel's stakeholders
+
+Allowing you to book a reservation and receive the track of the status for it.
+
+## Content Table
+
+- Installation
+- Use
+- Functionalities
+- Configuration
+- Endpoints
+- Roadmap
+
+
+## Installation
+
+### _Installation for development_.
+Requirements:
+- NodeJs.
+- Visual Studio Code.
+- Command Line.
